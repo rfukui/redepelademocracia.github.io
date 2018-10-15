@@ -3,5 +3,5 @@ title: Rede Pela Democracia
 description: Rede Pela Democracia
 show_downloads: "true"
 github:
-  zip_url: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.5.0-amd64-netinst.iso
-  another_url: Debian test
+  zip_url: blob:https://share.riseup.net/740ddd4b-e028-4624-9db2-412fa0cc44f8
+  another_url: Rede Pela Democracia
