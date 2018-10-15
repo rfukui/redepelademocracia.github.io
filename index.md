@@ -1,16 +1,10 @@
-## Welcome to GitHub Pages
+## É hora de agir
 
-You can use the [editor on GitHub](https://github.com/redepelademocracia/redepelademocracia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Os nossos direitos estão ameaçados, a democracia corre risco e o fascismo avança.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Antes de agir é preciso se organizar. Por isso a Rede pela Democracia (RD) criou esse manual.
 
-### Markdown
+### Objetivos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+ - Facilitar a criação de grupos locais que atuarão na difusão de conteúdo digital via redes sociais;
+ - Sensibilizar, face a face, em comunidades, locais de trabalho e entre amigos e familiares.
