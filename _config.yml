@@ -1,7 +1,9 @@
 theme: jekyll-theme-cayman
 title: Rede Pela Democracia
-description: Rede Pela Democracia
+description: "Baixe aqui o manual:"
 show_downloads: "true"
+google_analytics: "UA-127555630-1"
 github:
-  zip_url: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.5.0-amd64-netinst.iso
-  another_url: Debian test
+  zip_url: https://www.dropbox.com/s/fkarpvda69ksrp7/MANUALRPD.pdf?dl=0
+  tar_url: https://www.dropbox.com/s/fkarpvda69ksrp7/MANUALRPD.pdf?dl=0
+  another_url: Rede Pela Democracia
