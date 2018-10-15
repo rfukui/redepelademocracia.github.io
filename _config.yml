@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: Rede Pela Democracia
 description: Rede Pela Democracia
 show_downloads: "true"
+github:
+  zip_url: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.5.0-amd64-netinst.iso
+  another_url: Debian test
